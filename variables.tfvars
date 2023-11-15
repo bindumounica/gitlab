@@ -1,0 +1,3 @@
+
+prefix = "terraform"
+location = "eastus"
