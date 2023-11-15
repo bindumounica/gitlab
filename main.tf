@@ -7,7 +7,7 @@ terraform {
     resource_group_name  = "terraform_rg"
     storage_account_name = "terraformsg"
     container_name       = "terraform"
-    key                  = "t/PbBsLjQlMTAwdqx4wJEwZvmP4cAS0N6I5/9ZtB2hs155GVNaQur84fqAUcrzGzxJmvrgoCpQqH+AStuMdw0g=="
+    key                  = "terraform.tfstate"
   }
 }
 
